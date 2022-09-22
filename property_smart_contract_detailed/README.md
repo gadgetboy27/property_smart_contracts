@@ -1,1 +1,1 @@
-# ethereum_smart_contracts_solidity
+# ethereum_smart_contracts_solidity written for property and rental tranfer of title, shareholding or rent to shareholders.
